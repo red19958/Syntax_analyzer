@@ -1,0 +1,3 @@
+public enum Token {
+    FUN, WORD, OPENED_BRACKET, CLOSED_BRACKET, COLON, COMMA, END
+}
